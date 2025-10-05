@@ -6,7 +6,7 @@
   "domain": "yechik",
   "records": {
     "CNAME": [
-      "https://hayashiroj.github.io/yechik.github.io/"
+      "https://hayashiroj.github.io/"
     ]
   },
   "proxied": false
